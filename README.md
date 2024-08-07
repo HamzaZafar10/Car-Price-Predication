@@ -1,2 +1,2 @@
-# Car-Price-Predication
+# Car-Price-Prediction
  Car price Prediction using Random Forest Regression
